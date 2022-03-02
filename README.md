@@ -18,3 +18,27 @@
 * 所有的知识不保证权威性，如果各位朋友发现错误，欢迎与我讨论。
 * 笔记的编写基于 Windows 平台，可能会因为平台的不同而造成空格、制表符的显示效果不同。
 
+
+SE： Java Standard Edition，Java 标准版
+JVM： Java Virtual Machine（*Java*虚拟机）
+ALG：  Algorithm简单算法
+SDP： 设计模式
+
+
+
+JUC：  java.util.concurrent (简称 *JUC* )包,在此包中增加了在并发编程中很常用 的实用工具类,
+NET： 网络编程
+
+
+
+MyBatis： 
+Spring
+MVC
+SSM
+Boot
+
+
+
+MySQL
+JDBC
+Redis
